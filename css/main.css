@@ -90,9 +90,9 @@ nav .profile-link a {
 }
 .home-main-text {
     font-family: 'Roboto mono', monospace;
+    margin-top: 100px;
     font-size: 30px;
     font-weight: 700px;
-    letter-spacing: 10px;
     color: black;
     text-align: center;
     color: white;
